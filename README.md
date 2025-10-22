@@ -5,7 +5,7 @@ The app displays a random paragraph, allows the user to type it, and calculates 
 
 ---
 
-## 1️⃣ C Program: `typing_speed_random.c`
+## 1️⃣ C Program: `typing.c`
 
 This program calculates typing results and prints **JSON** output.  
 
